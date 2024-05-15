@@ -122,6 +122,7 @@
 .card-outer {
   width: 15rem;
   min-height: 15rem;
+  max-height: 17rem;
   background-color: var(--card);
   border-radius: 1rem 1rem 1rem 1rem;
   -moz-border-radius: 1rem 1rem 1rem 1rem;
